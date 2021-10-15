@@ -35,7 +35,7 @@ public class Main {
         int division = num1 / num2;
         System.out.println( num1+" / "+num2+" = "+ division);
         */
-        
+
         Scanner console = new Scanner( System.in);
 
         System.out.print("Enter number 1  ");
